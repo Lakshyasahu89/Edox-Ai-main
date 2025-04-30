@@ -28,5 +28,5 @@ This is a simple front-end clone of Google's Gemini AI interface. The goal of th
 To run this project locally:
 
 1. Clone the repository:
-```bash
+https://github.com/Lakshyasahu89/Edox-Ai-main.git
 
